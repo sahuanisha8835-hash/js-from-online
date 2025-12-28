@@ -26,4 +26,10 @@ console.log(typeof age);//return number
 console.log(typeof null);//return object
 console.log(typeof undefined);//return undefined
 
+const score = false;
+console.log(score);//false
+console.log(typeof score);//false
+
+
+
 
